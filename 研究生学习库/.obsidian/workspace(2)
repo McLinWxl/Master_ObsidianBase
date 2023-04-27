@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "d9916629b279d8e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc0bbc75d9939f23",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "01 机器学习/李沐-动手学深度学习.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2de18a87fd318496",
+    "type": "split",
+    "children": [
+      {
+        "id": "be4a275a9dc1158d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0ab31ccef88b8fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5f0d204e94946002",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "025d3f0e3c4b8e4e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100
+  },
+  "right": {
+    "id": "b1c122758346a7a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e32d8e2c8f9c17eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dea77cd2949bfc4a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 机器学习/李沐-动手学深度学习.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "83a6edac3923afb7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 机器学习/李沐-动手学深度学习.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4706c53457d4bc33",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7351ed583b267b29",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 机器学习/李沐-动手学深度学习.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 179
+  },
+  "active": "cc0bbc75d9939f23",
+  "lastOpenFiles": [
+    "01 机器学习/李沐-动手学深度学习.md",
+    "01 机器学习/李宏毅春机器学习课程.md",
+    "01 机器学习/Pytorch.md",
+    "01 机器学习/工具.md",
+    "01 机器学习/HW1.md",
+    "00 INBOX/Pasted image 20220624003309.png.md",
+    "02 语言学习/法语.md",
+    "02 语言学习/日语.md",
+    "00 INBOX/().md"
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "main": {
+    "id": "d9916629b279d8e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fb1aeee3c24b445",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee968ab1869430e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "月报.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d40063dd0d5c2c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "每周进度汇报.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ddda5d036566f17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZK cards/吴流丽博士论文汇报素材.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a818fac8b09000f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "论文学习/002e Building recurrent networks by unfolding iterative thresholding for sequential sparse recovery.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4cb7d83da8f52361",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "论文学习/002b Algorithm Unrolling： Interpretable, Efficient Deep Learning for Signal and Image Processing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c52eebebddc51ec",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "附件/2019_吴_基于机器学习的阵列信号处理方法.pdf"
+              }
+            }
+          },
+          {
+            "id": "6b661389f39b5b08",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "附件/空间谱估计理论与算法_王永良_陈辉_彭应宁_万群著_z_lib_org.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 2,
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "701cc4fe86040e19",
+    "type": "split",
+    "children": [
+      {
+        "id": "70f95b418c1dc4d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31e2742d33c83485",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8db9bd69e749c070",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d4ed91860825f523",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 217
+  },
+  "right": {
+    "id": "c1ad1ba9f03bb9a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "50e806156baa4b09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "593727768b5f9a55",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "11765b5f8ec030ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ZK cards/吴流丽博士论文汇报素材.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "39a4c5d0b28fd33e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ZK cards/吴流丽博士论文汇报素材.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0cac5b4d91d8a0da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9bcd4e4ccb571d96",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ZK cards/吴流丽博士论文汇报素材.md"
+              }
+            }
+          },
+          {
+            "id": "ccfc9de0b797963c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": true,
+      "markdown-importer:打开 Markdown 格式转换器": true,
+      "workspaces:管理工作区布局": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "7ddda5d036566f17",
+  "lastOpenFiles": [
+    "附件/Pasted image 20230423184749.png",
+    "附件/Pasted image 20230423184026.png",
+    "附件/Pasted image 20230423124359.png",
+    "附件/Pasted image 20230423124246.png",
+    "附件/Pasted image 20230423124221.png",
+    "附件/Pasted image 20230423124209.png",
+    "附件/Pasted image 20230423124154.png",
+    "附件/Pasted image 20230423124144.png",
+    "附件/Pasted image 20230423124106.png",
+    "附件/Pasted image 20230423124056.png",
+    "附件/Pasted image 20230423123616.png",
+    "每周进度汇报.md",
+    "ZK cards/吴流丽博士论文汇报素材.md",
+    "论文学习/002e Building recurrent networks by unfolding iterative thresholding for sequential sparse recovery.md",
+    "月报.md",
+    "附件/空间谱估计理论与算法_王永良_陈辉_彭应宁_万群著_z_lib_org.pdf",
+    "附件/2019_吴_基于机器学习的阵列信号处理方法.pdf",
+    "论文学习/000b 空间谱估计理论与算法.md",
+    "论文学习/002b Algorithm Unrolling： Interpretable, Efficient Deep Learning for Signal and Image Processing.md",
+    "论文学习/000a 基于机器学习的阵列信号处理方法(1,2章).md",
+    "论文学习/002e BUILDING RECURRENT NETWORKS BY UNFOLDING ITERATIVE THRESHOLDING FOR SEQUENTIAL SPARSE RECOVERY.md",
+    "Templates/论文阅读笔记.md",
+    "论文学习/002d Ada-LISTA Learned Solvers Adaptive to Varying Models.md",
+    "附件/2017_Wisdom et al_Building recurrent networks by unfolding iterative thresholding for sequential.pdf",
+    "附件/2019_Wu et al_Deep Convolution Network for Direction of Arrival Estimation With Sparse Prior.pdf",
+    "论文学习/000e Deep Convolution Network for Direction of Arrival Estimation With Sparse Prior.md",
+    "论文学习/002c Fast Iteration Shrinkage Thresholding Unfolding Network for Acoustic Source Localization.md",
+    "论文学习/005 Learning to Optimize： A Primer and A Benchmark.md",
+    "Daily/2023-04-10.md",
+    "Daily/2023-04-11.md",
+    "Daily/2023-04-09.md",
+    "Daily/2023-04-07.md",
+    "Templates/ZK cards.md",
+    "Templates/Daily.md",
+    "Daily/2023-04-08.md",
+    "未命名",
+    "ZK cards/复数矩阵的实数域表示.md",
+    "ZK cards/复包络.md",
+    "ZK cards/DOA 估计算法展开属于哪一类问题？.md",
+    "Daily/2023-04-06.md",
+    "ZK cards/软阈值迭代算法推导.md",
+    "附件/SPARSE SIGNAL RESTORATION.pdf",
+    "文献阅读.canvas",
+    "附件/Learning to Optimize： A Primer and A Benchmark.pdf",
+    "附件/Ada-LISTA.pdf",
+    "未命名.canvas",
+    "文献整理/1",
+    "文献整理",
+    "未命名 1.canvas",
+    "Z 暂弃/未命名.canvas"
+  ]
+}

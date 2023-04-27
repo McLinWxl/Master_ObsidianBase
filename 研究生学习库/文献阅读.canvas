@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"type":"file","file":"论文学习/001 Deep Alternating Projection Networks for Gridless DOA Estimation With Nested Array.md","id":"e2dffc5cf981a18e","x":-160,"y":360,"width":400,"height":400},
+		{"type":"file","file":"附件/DAPN-Net.png","id":"98fc5af39db84a5b","x":440,"y":460,"width":882,"height":200},
+		{"type":"text","text":"# 数据驱动","id":"043ccc82d6f2be78","x":-1040,"y":-120,"width":241,"height":79},
+		{"type":"file","file":"论文学习/000e Deep Convolution Network for Direction of Arrival Estimation With Sparse Prior.md","id":"6a52846e4164d1df","x":681,"y":-800,"width":400,"height":400},
+		{"type":"file","file":"附件/DCN-DOA.png","id":"f10927ae0f2628aa","x":1240,"y":-800,"width":534,"height":400},
+		{"type":"file","file":"论文学习/000c 基于机器学习的阵列信号处理方法(4章)：卷积网络.md","id":"8815e9324731a527","x":-160,"y":-800,"width":400,"height":400},
+		{"type":"file","file":"论文学习/000a 基于机器学习的阵列信号处理方法(1,2章).md","id":"cc3d261dbec0f5b3","x":-160,"y":-1490,"width":400,"height":400,"color":"3"},
+		{"type":"text","text":"# 模型驱动","id":"0cf70eb2a3d73b94","x":-1040,"y":-1320,"width":261,"height":80},
+		{"type":"text","text":"# 网络展开","id":"8b4336b114611c6c","x":-1040,"y":962,"width":241,"height":80},
+		{"type":"file","file":"论文学习/000d 基于机器学习的阵列信号处理方法(5章)：深度展开方法.md","id":"eefb5fbd35241d88","x":2484,"y":766,"width":400,"height":400},
+		{"type":"file","file":"附件/FISTA-Net.png","id":"ba9a0c59d108f3e8","x":1600,"y":1304,"width":991,"height":400},
+		{"type":"file","file":"附件/Learned-ISTA.png","id":"6545eb5b5ea76c5e","x":1600,"y":760,"width":680,"height":404},
+		{"type":"file","file":"论文学习/002b Algorithm Unrolling： Interpretable, Efficient Deep Learning for Signal and Image Processing.md","id":"498079c33c59f99b","x":1000,"y":764,"width":400,"height":400,"color":"2"},
+		{"type":"file","file":"论文学习/002c Fast Iteration Shrinkage Thresholding Unfolding Network for Acoustic Source Localization.md","id":"1aa6a39e307b4796","x":1000,"y":1304,"width":400,"height":400},
+		{"type":"file","file":"论文学习/002a ISTA 算法推导.md","id":"bba594f1a2542054","x":-160,"y":1504,"width":400,"height":400},
+		{"type":"file","file":"论文学习/002d Ada-LISTA Learned Solvers Adaptive to Varying Models.md","id":"3d44dfd6b283d1c8","x":1000,"y":1840,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"e9490e2fe67c0648","fromNode":"043ccc82d6f2be78","fromSide":"right","toNode":"8815e9324731a527","toSide":"left","label":"使用信号的\n协方差矩阵作为输入\n模型推导"},
+		{"id":"47114bd5399f2c0c","fromNode":"498079c33c59f99b","fromSide":"left","toNode":"bba594f1a2542054","toSide":"right","label":"LISTA\n协方差向量作为输入\nISTA 优化目标\n展开成线性层+软阈值层"},
+		{"id":"ea1b1cb420a2d3b2","fromNode":"1aa6a39e307b4796","fromSide":"left","toNode":"bba594f1a2542054","toSide":"right","label":"FISTA\n协方差向量作为输入\nFast-ISTA 优化目标"},
+		{"id":"de83cd877037aafd","fromNode":"1aa6a39e307b4796","fromSide":"right","toNode":"ba9a0c59d108f3e8","toSide":"left"},
+		{"id":"ddd4b4e17d5e2ec0","fromNode":"498079c33c59f99b","fromSide":"right","toNode":"6545eb5b5ea76c5e","toSide":"left"},
+		{"id":"8bf52e85df3cbe48","fromNode":"e2dffc5cf981a18e","fromSide":"right","toNode":"98fc5af39db84a5b","toSide":"left"},
+		{"id":"bea9eda25c0f407d","fromNode":"8815e9324731a527","fromSide":"right","toNode":"6a52846e4164d1df","toSide":"left","label":"DCN-DOA\n使用信号伪谱作为输入"},
+		{"id":"47fa2a093c7af359","fromNode":"6a52846e4164d1df","fromSide":"right","toNode":"f10927ae0f2628aa","toSide":"left"},
+		{"id":"c2f483659a756972","fromNode":"6545eb5b5ea76c5e","fromSide":"right","toNode":"eefb5fbd35241d88","toSide":"left"},
+		{"id":"f12c7b821ee8cd5a","fromNode":"8b4336b114611c6c","fromSide":"right","toNode":"bba594f1a2542054","toSide":"left"},
+		{"id":"1d2de2df15986a8a","fromNode":"e2dffc5cf981a18e","fromSide":"left","toNode":"8b4336b114611c6c","toSide":"right","label":"DAPN\n协方差矩阵转换为原子范数形式输入\n交替投影法优化目标"},
+		{"id":"0b9f30288f9c42c5","fromNode":"3d44dfd6b283d1c8","fromSide":"left","toNode":"bba594f1a2542054","toSide":"right"}
+	]
+}

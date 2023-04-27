@@ -1,0 +1,21 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "promptDelete": false,
+  "trashOption": "local",
+  "showLineNumber": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "ZK cards",
+  "attachmentFolderPath": "附件",
+  "strictLineBreaks": true,
+  "defaultViewMode": "source",
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": true,
+  "readableLineLength": false,
+  "userIgnoreFilters": [
+    "MODEL/",
+    "Daily/",
+    "文献整理/"
+  ],
+  "tabSize": 5
+}
