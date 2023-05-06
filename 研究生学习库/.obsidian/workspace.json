@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ee968ab1869430e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "月报.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4c9b83506afd9c7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文学习/002e Building recurrent networks by unfolding iterative thresholding for sequential sparse recovery.md",
+                "file": "月报.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,6 +98,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -149,14 +138,6 @@
             }
           },
           {
-            "id": "d4ed91860825f523",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "59087cdc4613a1a0",
             "type": "leaf",
             "state": {
@@ -192,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "月报.md",
+                "file": "论文学习/002d Ada-LISTA Learned Solvers Adaptive to Varying Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "月报.md",
+                "file": "论文学习/002d Ada-LISTA Learned Solvers Adaptive to Varying Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,16 +213,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "月报.md"
+                "file": "论文学习/002d Ada-LISTA Learned Solvers Adaptive to Varying Models.md"
               }
-            }
-          },
-          {
-            "id": "ccfc9de0b797963c",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           }
         ],
@@ -263,8 +236,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ee968ab1869430e9",
+  "active": "9bcd4e4ccb571d96",
   "lastOpenFiles": [
+    "论文学习/002d Ada-LISTA Learned Solvers Adaptive to Varying Models.md",
+    "月报.md",
+    "每周进度汇报.md",
+    "论文学习/002e Building recurrent networks by unfolding iterative thresholding for sequential sparse recovery.md",
+    "ZK cards/bookmark.md",
     "附件/Pasted image 20230505213603.png",
     "附件/Pasted image 20230505213550.png",
     "附件/Pasted image 20230505213546.png",
@@ -276,15 +254,10 @@
     "附件/Pasted image 20230505212734.png",
     "附件/Pasted image 20230505212726.png",
     "附件/Pasted image 20230505212651.png",
-    "附件/Pasted image 20230505212548.png",
-    "论文学习/002e Building recurrent networks by unfolding iterative thresholding for sequential sparse recovery.md",
-    "月报.md",
-    "论文学习/002d Ada-LISTA Learned Solvers Adaptive to Varying Models.md",
     "ZK cards/2303 软阈值迭代算法推导.md",
     "ZK cards/2303 复数矩阵的实数域表示.md",
     "ZK cards/2303 复包络.md",
     "ZK cards/2303 DOA 估计算法展开属于哪一类问题？.md",
-    "每周进度汇报.md",
     "附件/空间谱估计理论与算法_王永良_陈辉_彭应宁_万群著_z_lib_org.pdf",
     "附件/2019_吴_基于机器学习的阵列信号处理方法.pdf",
     "论文学习/000b 空间谱估计理论与算法.md",
