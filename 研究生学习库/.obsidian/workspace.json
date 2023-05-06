@@ -20,24 +20,36 @@
             }
           },
           {
-            "id": "0d40063dd0d5c2c4",
+            "id": "4c9b83506afd9c7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每周进度汇报.md",
+                "file": "论文学习/002e Building recurrent networks by unfolding iterative thresholding for sequential sparse recovery.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7ddda5d036566f17",
+            "id": "6f6529ffe0d11714",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZK cards/吴流丽博士论文汇报素材.md",
+                "file": "论文学习/002d Ada-LISTA Learned Solvers Adaptive to Varying Models.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d40063dd0d5c2c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZK cards/2305 吴流丽博士论文汇报素材.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,6 +64,16 @@
                 "file": "论文学习/002e Building recurrent networks by unfolding iterative thresholding for sequential sparse recovery.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "29b5c28a96be1c50",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
               }
             }
           },
@@ -88,7 +110,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -134,6 +155,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "59087cdc4613a1a0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -163,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZK cards/吴流丽博士论文汇报素材.md",
+                "file": "月报.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZK cards/吴流丽博士论文汇报素材.md",
+                "file": "月报.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZK cards/吴流丽博士论文汇报素材.md"
+                "file": "月报.md"
               }
             }
           },
@@ -234,23 +263,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7ddda5d036566f17",
+  "active": "ee968ab1869430e9",
   "lastOpenFiles": [
-    "附件/Pasted image 20230423184749.png",
-    "附件/Pasted image 20230423184026.png",
-    "附件/Pasted image 20230423124359.png",
-    "附件/Pasted image 20230423124246.png",
-    "附件/Pasted image 20230423124221.png",
-    "附件/Pasted image 20230423124209.png",
-    "附件/Pasted image 20230423124154.png",
-    "附件/Pasted image 20230423124144.png",
-    "附件/Pasted image 20230423124106.png",
-    "附件/Pasted image 20230423124056.png",
-    "附件/Pasted image 20230423123616.png",
-    "每周进度汇报.md",
-    "ZK cards/吴流丽博士论文汇报素材.md",
+    "附件/Pasted image 20230505213603.png",
+    "附件/Pasted image 20230505213550.png",
+    "附件/Pasted image 20230505213546.png",
+    "附件/Pasted image 20230505213543.png",
+    "ZK cards/2305 吴流丽博士论文汇报素材.md",
+    "附件/Pasted image 20230505212802.png",
+    "附件/Pasted image 20230505212752.png",
+    "附件/Pasted image 20230505212736.png",
+    "附件/Pasted image 20230505212734.png",
+    "附件/Pasted image 20230505212726.png",
+    "附件/Pasted image 20230505212651.png",
+    "附件/Pasted image 20230505212548.png",
     "论文学习/002e Building recurrent networks by unfolding iterative thresholding for sequential sparse recovery.md",
     "月报.md",
+    "论文学习/002d Ada-LISTA Learned Solvers Adaptive to Varying Models.md",
+    "ZK cards/2303 软阈值迭代算法推导.md",
+    "ZK cards/2303 复数矩阵的实数域表示.md",
+    "ZK cards/2303 复包络.md",
+    "ZK cards/2303 DOA 估计算法展开属于哪一类问题？.md",
+    "每周进度汇报.md",
     "附件/空间谱估计理论与算法_王永良_陈辉_彭应宁_万群著_z_lib_org.pdf",
     "附件/2019_吴_基于机器学习的阵列信号处理方法.pdf",
     "论文学习/000b 空间谱估计理论与算法.md",
@@ -258,7 +292,6 @@
     "论文学习/000a 基于机器学习的阵列信号处理方法(1,2章).md",
     "论文学习/002e BUILDING RECURRENT NETWORKS BY UNFOLDING ITERATIVE THRESHOLDING FOR SEQUENTIAL SPARSE RECOVERY.md",
     "Templates/论文阅读笔记.md",
-    "论文学习/002d Ada-LISTA Learned Solvers Adaptive to Varying Models.md",
     "附件/2017_Wisdom et al_Building recurrent networks by unfolding iterative thresholding for sequential.pdf",
     "附件/2019_Wu et al_Deep Convolution Network for Direction of Arrival Estimation With Sparse Prior.pdf",
     "论文学习/000e Deep Convolution Network for Direction of Arrival Estimation With Sparse Prior.md",
@@ -272,11 +305,7 @@
     "Templates/Daily.md",
     "Daily/2023-04-08.md",
     "未命名",
-    "ZK cards/复数矩阵的实数域表示.md",
-    "ZK cards/复包络.md",
-    "ZK cards/DOA 估计算法展开属于哪一类问题？.md",
     "Daily/2023-04-06.md",
-    "ZK cards/软阈值迭代算法推导.md",
     "附件/SPARSE SIGNAL RESTORATION.pdf",
     "文献阅读.canvas",
     "附件/Learning to Optimize： A Primer and A Benchmark.pdf",
