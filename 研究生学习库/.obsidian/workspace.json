@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "6f6529ffe0d11714",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "论文学习/002d Ada-LISTA Learned Solvers Adaptive to Varying Models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0d40063dd0d5c2c4",
             "type": "leaf",
             "state": {
@@ -98,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -173,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文学习/002d Ada-LISTA Learned Solvers Adaptive to Varying Models.md",
+                "file": "论文学习/002e Building recurrent networks by unfolding iterative thresholding for sequential sparse recovery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论文学习/002d Ada-LISTA Learned Solvers Adaptive to Varying Models.md",
+                "file": "论文学习/002e Building recurrent networks by unfolding iterative thresholding for sequential sparse recovery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文学习/002d Ada-LISTA Learned Solvers Adaptive to Varying Models.md"
+                "file": "论文学习/002e Building recurrent networks by unfolding iterative thresholding for sequential sparse recovery.md"
               }
             }
           }
@@ -231,13 +219,16 @@
       "command-palette:打开命令面板": true,
       "markdown-importer:打开 Markdown 格式转换器": true,
       "workspaces:管理工作区布局": false,
-      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9bcd4e4ccb571d96",
+  "active": "1a818fac8b09000f",
   "lastOpenFiles": [
+    "Daily/2023-04-05.md",
+    "Daily/2023-04-07.md",
+    "Daily/2023-04-09.md",
+    "Daily/2023-04-11.md",
     "论文学习/002d Ada-LISTA Learned Solvers Adaptive to Varying Models.md",
     "月报.md",
     "每周进度汇报.md",
@@ -271,14 +262,10 @@
     "论文学习/002c Fast Iteration Shrinkage Thresholding Unfolding Network for Acoustic Source Localization.md",
     "论文学习/005 Learning to Optimize： A Primer and A Benchmark.md",
     "Daily/2023-04-10.md",
-    "Daily/2023-04-11.md",
-    "Daily/2023-04-09.md",
-    "Daily/2023-04-07.md",
     "Templates/ZK cards.md",
     "Templates/Daily.md",
     "Daily/2023-04-08.md",
     "未命名",
-    "Daily/2023-04-06.md",
     "附件/SPARSE SIGNAL RESTORATION.pdf",
     "文献阅读.canvas",
     "附件/Learning to Optimize： A Primer and A Benchmark.pdf",
