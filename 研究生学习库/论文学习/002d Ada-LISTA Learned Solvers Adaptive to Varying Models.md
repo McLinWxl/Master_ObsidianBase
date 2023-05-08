@@ -14,7 +14,8 @@
 
 中科院分区/影响因子：一区 / 24.314
 
-标签： #ISTA_based 
+标签： [[ISTA-based]] [[深度展开]]
+
 
 # 摘要：
 
@@ -22,7 +23,7 @@
 
 # 引言:
 
-传统 ISTA 迭代方法：[[002a ISTA 算法推导]]
+传统 ISTA 迭代方法：
 
 $$\mathbf{x}_{k+1}=\mathcal{S}_{\frac{\lambda}{L}}\left(\mathbf{x}_k+\frac{1}{L} \mathbf{D}^T\left(\mathbf{y}-\mathbf{D} \mathbf{x}_k\right)\right), k=0,1, \ldots$$
 

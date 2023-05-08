@@ -8,7 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4c9b83506afd9c7b",
+            "id": "b48d7aafdf083622",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "77b3da7d3350b984",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,31 +33,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZK cards/2305 吴流丽博士论文汇报素材.md",
+                "file": "ZK cards/吴流丽博士论文汇报素材.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "1a818fac8b09000f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "论文学习/002e Building recurrent networks by unfolding iterative thresholding for sequential sparse recovery.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29b5c28a96be1c50",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
               }
             }
           },
@@ -86,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -161,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文学习/002e Building recurrent networks by unfolding iterative thresholding for sequential sparse recovery.md",
+                "file": "月报.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论文学习/002e Building recurrent networks by unfolding iterative thresholding for sequential sparse recovery.md",
+                "file": "月报.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文学习/002e Building recurrent networks by unfolding iterative thresholding for sequential sparse recovery.md"
+                "file": "月报.md"
               }
             }
           }
@@ -214,57 +200,57 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "command-palette:打开命令面板": true,
       "markdown-importer:打开 Markdown 格式转换器": true,
       "workspaces:管理工作区布局": false,
       "templates:插入模板": false,
+      "graph:查看关系图谱": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1a818fac8b09000f",
+  "active": "77b3da7d3350b984",
   "lastOpenFiles": [
+    "ZK cards/三元函数、行内 for 语句.md",
+    "月报.md",
+    "ZK cards/lambda 匿名函数.md",
+    "论文学习/002d Ada-LISTA Learned Solvers Adaptive to Varying Models.md",
+    "ZK cards/复数矩阵的实数域表示.md",
+    "Templates/Daily.md",
+    "ZK cards/吴流丽博士论文汇报素材.md",
+    "ZK cards/002a ISTA 算法推导.md",
+    "ZK cards/算法推导.md",
+    "ZK cards/DOA 估计算法展开属于哪一类问题？.md",
+    "论文学习/001 Deep Alternating Projection Networks for Gridless DOA Estimation With Nested Array.md",
+    "论文学习/000e Deep Convolution Network for Direction of Arrival Estimation With Sparse Prior.md",
+    "论文学习/002b Algorithm Unrolling： Interpretable, Efficient Deep Learning for Signal and Image Processing.md",
+    "论文学习/002c Fast Iteration Shrinkage Thresholding Unfolding Network for Acoustic Source Localization.md",
+    "论文学习/000d 基于机器学习的阵列信号处理方法(5章)：深度展开方法.md",
+    "论文学习/002e Building recurrent networks by unfolding iterative thresholding for sequential sparse recovery.md",
+    "ZK cards/ISTA-based.md",
+    "论文学习/005 Learning to Optimize： A Primer and A Benchmark.md",
+    "Templates/ZK cards.md",
+    "ZK cards/map() 函数.md",
+    "ZK cards/de.md",
+    "ZK cards/软阈值迭代算法推导.md",
+    "ZK cards/复包络.md",
     "Daily/2023-04-05.md",
     "Daily/2023-04-07.md",
     "Daily/2023-04-09.md",
-    "Daily/2023-04-11.md",
-    "论文学习/002d Ada-LISTA Learned Solvers Adaptive to Varying Models.md",
-    "月报.md",
-    "每周进度汇报.md",
-    "论文学习/002e Building recurrent networks by unfolding iterative thresholding for sequential sparse recovery.md",
-    "ZK cards/bookmark.md",
     "附件/Pasted image 20230505213603.png",
     "附件/Pasted image 20230505213550.png",
     "附件/Pasted image 20230505213546.png",
     "附件/Pasted image 20230505213543.png",
-    "ZK cards/2305 吴流丽博士论文汇报素材.md",
     "附件/Pasted image 20230505212802.png",
     "附件/Pasted image 20230505212752.png",
     "附件/Pasted image 20230505212736.png",
     "附件/Pasted image 20230505212734.png",
     "附件/Pasted image 20230505212726.png",
     "附件/Pasted image 20230505212651.png",
-    "ZK cards/2303 软阈值迭代算法推导.md",
-    "ZK cards/2303 复数矩阵的实数域表示.md",
-    "ZK cards/2303 复包络.md",
-    "ZK cards/2303 DOA 估计算法展开属于哪一类问题？.md",
     "附件/空间谱估计理论与算法_王永良_陈辉_彭应宁_万群著_z_lib_org.pdf",
     "附件/2019_吴_基于机器学习的阵列信号处理方法.pdf",
-    "论文学习/000b 空间谱估计理论与算法.md",
-    "论文学习/002b Algorithm Unrolling： Interpretable, Efficient Deep Learning for Signal and Image Processing.md",
-    "论文学习/000a 基于机器学习的阵列信号处理方法(1,2章).md",
-    "论文学习/002e BUILDING RECURRENT NETWORKS BY UNFOLDING ITERATIVE THRESHOLDING FOR SEQUENTIAL SPARSE RECOVERY.md",
-    "Templates/论文阅读笔记.md",
     "附件/2017_Wisdom et al_Building recurrent networks by unfolding iterative thresholding for sequential.pdf",
     "附件/2019_Wu et al_Deep Convolution Network for Direction of Arrival Estimation With Sparse Prior.pdf",
-    "论文学习/000e Deep Convolution Network for Direction of Arrival Estimation With Sparse Prior.md",
-    "论文学习/002c Fast Iteration Shrinkage Thresholding Unfolding Network for Acoustic Source Localization.md",
-    "论文学习/005 Learning to Optimize： A Primer and A Benchmark.md",
-    "Daily/2023-04-10.md",
-    "Templates/ZK cards.md",
-    "Templates/Daily.md",
-    "Daily/2023-04-08.md",
     "未命名",
     "附件/SPARSE SIGNAL RESTORATION.pdf",
     "文献阅读.canvas",
