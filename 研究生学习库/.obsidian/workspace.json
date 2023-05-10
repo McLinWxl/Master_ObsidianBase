@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "月报.md",
+                "file": "论文学习/002b Algorithm Unrolling： Interpretable, Efficient Deep Learning for Signal and Image Processing.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "月报.md",
+                "file": "论文学习/002b Algorithm Unrolling： Interpretable, Efficient Deep Learning for Signal and Image Processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "月报.md",
+                "file": "论文学习/002b Algorithm Unrolling： Interpretable, Efficient Deep Learning for Signal and Image Processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "月报.md"
+                "file": "论文学习/002b Algorithm Unrolling： Interpretable, Efficient Deep Learning for Signal and Image Processing.md"
               }
             }
           }
@@ -209,10 +209,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "77b3da7d3350b984",
+  "active": "4cb7d83da8f52361",
   "lastOpenFiles": [
-    "ZK cards/三元函数、行内 for 语句.md",
     "月报.md",
+    "ZK cards/三元函数、行内 for 语句.md",
     "ZK cards/lambda 匿名函数.md",
     "论文学习/002d Ada-LISTA Learned Solvers Adaptive to Varying Models.md",
     "ZK cards/复数矩阵的实数域表示.md",
