@@ -16,12 +16,24 @@
             }
           },
           {
+            "id": "00ca03eab43ed974",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "每周进度汇报.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "77b3da7d3350b984",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文学习/002b Algorithm Unrolling： Interpretable, Efficient Deep Learning for Signal and Image Processing.md",
+                "file": "月报.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -147,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文学习/002b Algorithm Unrolling： Interpretable, Efficient Deep Learning for Signal and Image Processing.md",
+                "file": "月报.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论文学习/002b Algorithm Unrolling： Interpretable, Efficient Deep Learning for Signal and Image Processing.md",
+                "file": "月报.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文学习/002b Algorithm Unrolling： Interpretable, Efficient Deep Learning for Signal and Image Processing.md"
+                "file": "月报.md"
               }
             }
           }
@@ -209,12 +221,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4cb7d83da8f52361",
+  "active": "77b3da7d3350b984",
   "lastOpenFiles": [
-    "论文学习/000a 基于机器学习的阵列信号处理方法(1,2章).md",
-    "论文学习/002b Algorithm Unrolling： Interpretable, Efficient Deep Learning for Signal and Image Processing.md",
-    "论文学习/000b 空间谱估计理论与算法.md",
+    "每周进度汇报.md",
     "月报.md",
+    "论文学习/002b Algorithm Unrolling： Interpretable, Efficient Deep Learning for Signal and Image Processing.md",
+    "论文学习/000a 基于机器学习的阵列信号处理方法(1,2章).md",
+    "论文学习/000b 空间谱估计理论与算法.md",
     "ZK cards/三元函数、行内 for 语句.md",
     "ZK cards/lambda 匿名函数.md",
     "论文学习/002d Ada-LISTA Learned Solvers Adaptive to Varying Models.md",
@@ -236,7 +249,6 @@
     "ZK cards/de.md",
     "ZK cards/软阈值迭代算法推导.md",
     "ZK cards/复包络.md",
-    "Daily/2023-04-05.md",
     "附件/Pasted image 20230505213603.png",
     "附件/Pasted image 20230505213550.png",
     "附件/Pasted image 20230505213546.png",
