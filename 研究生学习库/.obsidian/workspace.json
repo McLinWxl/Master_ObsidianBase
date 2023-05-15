@@ -40,6 +40,16 @@
             }
           },
           {
+            "id": "c35c53a3e442fc99",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "附件/2019_Wu et al_Deep Convolution Network for Direction of Arrival Estimation With Sparse Prior.pdf"
+              }
+            }
+          },
+          {
             "id": "0d40063dd0d5c2c4",
             "type": "leaf",
             "state": {
@@ -84,7 +94,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -135,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217
+    "width": 217,
+    "collapsed": true
   },
   "right": {
     "id": "c1ad1ba9f03bb9a7",
@@ -159,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "月报.md",
+                "file": "每周进度汇报.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "月报.md",
+                "file": "每周进度汇报.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "月报.md"
+                "file": "每周进度汇报.md"
               }
             }
           }
@@ -221,10 +232,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "77b3da7d3350b984",
+  "active": "00ca03eab43ed974",
   "lastOpenFiles": [
-    "每周进度汇报.md",
+    "附件/2019_Wu et al_Deep Convolution Network for Direction of Arrival Estimation With Sparse Prior.pdf",
     "月报.md",
+    "每周进度汇报.md",
     "论文学习/002b Algorithm Unrolling： Interpretable, Efficient Deep Learning for Signal and Image Processing.md",
     "论文学习/000a 基于机器学习的阵列信号处理方法(1,2章).md",
     "论文学习/000b 空间谱估计理论与算法.md",
@@ -248,7 +260,6 @@
     "ZK cards/map() 函数.md",
     "ZK cards/de.md",
     "ZK cards/软阈值迭代算法推导.md",
-    "ZK cards/复包络.md",
     "附件/Pasted image 20230505213603.png",
     "附件/Pasted image 20230505213550.png",
     "附件/Pasted image 20230505213546.png",
@@ -262,7 +273,6 @@
     "附件/空间谱估计理论与算法_王永良_陈辉_彭应宁_万群著_z_lib_org.pdf",
     "附件/2019_吴_基于机器学习的阵列信号处理方法.pdf",
     "附件/2017_Wisdom et al_Building recurrent networks by unfolding iterative thresholding for sequential.pdf",
-    "附件/2019_Wu et al_Deep Convolution Network for Direction of Arrival Estimation With Sparse Prior.pdf",
     "未命名",
     "附件/SPARSE SIGNAL RESTORATION.pdf",
     "文献阅读.canvas",
