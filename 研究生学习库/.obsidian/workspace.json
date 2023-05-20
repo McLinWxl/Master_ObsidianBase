@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b48d7aafdf083622",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "00ca03eab43ed974",
             "type": "leaf",
             "state": {
@@ -33,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日笔记.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77b3da7d3350b984",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "月报.md",
+                "file": "网络代码实现/DCNN-DOA 复现.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,6 +38,28 @@
               "type": "pdf",
               "state": {
                 "file": "附件/2019_Wu et al_Deep Convolution Network for Direction of Arrival Estimation With Sparse Prior.pdf"
+              }
+            }
+          },
+          {
+            "id": "5c52eebebddc51ec",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "附件/2019_吴_基于机器学习的阵列信号处理方法.pdf"
+              }
+            }
+          },
+          {
+            "id": "77b3da7d3350b984",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "月报.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -86,12 +88,12 @@
             }
           },
           {
-            "id": "5c52eebebddc51ec",
+            "id": "12ea1485b5b7667e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "附件/2019_吴_基于机器学习的阵列信号处理方法.pdf"
+                "file": "附件/2022_DOA_Estimation_Using_an_Unfolded_Deep_Network_in_the_Presence_of_Array_Imperfections.pdf"
               }
             }
           },
@@ -106,8 +108,7 @@
             }
           }
         ],
-        "currentTab": 2,
-        "stacked": true
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217
+    "width": 217,
+    "collapsed": true
   },
   "right": {
     "id": "c1ad1ba9f03bb9a7",
@@ -181,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日笔记.md",
+                "file": "网络代码实现/DCNN-DOA 复现.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "每日笔记.md",
+                "file": "网络代码实现/DCNN-DOA 复现.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "每日笔记.md"
+                "file": "网络代码实现/DCNN-DOA 复现.md"
               }
             }
           }
@@ -245,54 +247,53 @@
   },
   "active": "73b45873ef9d617f",
   "lastOpenFiles": [
-    "附件/Pasted image 20230516183149.png",
-    "论文学习/002b Algorithm Unrolling： Interpretable, Efficient Deep Learning for Signal and Image Processing.md",
-    "每日笔记.md",
-    "附件/Pasted image 20230516153658.png",
-    "每周进度汇报.md",
     "附件/2019_Wu et al_Deep Convolution Network for Direction of Arrival Estimation With Sparse Prior.pdf",
-    "月报.md",
+    "附件/2019_吴_基于机器学习的阵列信号处理方法.pdf",
+    "网络代码实现/DCNN-DOA 复现.md",
+    "ZK cards/吴流丽博士论文汇报素材.md",
+    "论文学习/000c 基于机器学习的阵列信号处理方法(4章)：卷积网络.md",
+    "论文学习/000d 基于机器学习的阵列信号处理方法(5章)：深度展开方法.md",
     "论文学习/000a 基于机器学习的阵列信号处理方法(1,2章).md",
+    "论文学习/000e Deep Convolution Network for Direction of Arrival Estimation With Sparse Prior.md",
+    "网络代码实现",
+    "附件/Pasted image 20230519230756.png",
+    "附件/Pasted image 20230519225952.png",
+    "附件/Pasted image 20230519225934.png",
+    "附件/Pasted image 20230519225659.png",
+    "附件/Pasted image 20230519225629.png",
+    "附件/Pasted image 20230519225338.png",
+    "附件/Pasted image 20230516153658.png",
+    "附件/Pasted image 20230517174135.png",
+    "附件/Pasted image 20230517172635.png",
+    "附件/Pasted image 20230517172628.png",
+    "附件/2022_DOA_Estimation_Using_an_Unfolded_Deep_Network_in_the_Presence_of_Array_Imperfections.pdf",
+    "附件/DOA_Estimation_Using_an_Unfolded_Deep_Network_in_the_Presence_of_Array_Imperfections.pdf",
+    "论文学习/002b Algorithm Unrolling： Interpretable, Efficient Deep Learning for Signal and Image Processing.md",
+    "每周进度汇报.md",
+    "月报.md",
     "论文学习/000b 空间谱估计理论与算法.md",
     "ZK cards/三元函数、行内 for 语句.md",
     "ZK cards/lambda 匿名函数.md",
     "论文学习/002d Ada-LISTA Learned Solvers Adaptive to Varying Models.md",
     "ZK cards/复数矩阵的实数域表示.md",
     "Templates/Daily.md",
-    "ZK cards/吴流丽博士论文汇报素材.md",
     "ZK cards/002a ISTA 算法推导.md",
     "ZK cards/算法推导.md",
     "ZK cards/DOA 估计算法展开属于哪一类问题？.md",
     "论文学习/001 Deep Alternating Projection Networks for Gridless DOA Estimation With Nested Array.md",
-    "论文学习/000e Deep Convolution Network for Direction of Arrival Estimation With Sparse Prior.md",
     "论文学习/002c Fast Iteration Shrinkage Thresholding Unfolding Network for Acoustic Source Localization.md",
-    "论文学习/000d 基于机器学习的阵列信号处理方法(5章)：深度展开方法.md",
     "论文学习/002e Building recurrent networks by unfolding iterative thresholding for sequential sparse recovery.md",
     "ZK cards/ISTA-based.md",
     "论文学习/005 Learning to Optimize： A Primer and A Benchmark.md",
     "Templates/ZK cards.md",
     "ZK cards/map() 函数.md",
-    "ZK cards/de.md",
-    "附件/Pasted image 20230505213603.png",
-    "附件/Pasted image 20230505213550.png",
-    "附件/Pasted image 20230505213546.png",
-    "附件/Pasted image 20230505213543.png",
-    "附件/Pasted image 20230505212802.png",
-    "附件/Pasted image 20230505212752.png",
-    "附件/Pasted image 20230505212736.png",
-    "附件/Pasted image 20230505212734.png",
-    "附件/Pasted image 20230505212726.png",
     "附件/空间谱估计理论与算法_王永良_陈辉_彭应宁_万群著_z_lib_org.pdf",
-    "附件/2019_吴_基于机器学习的阵列信号处理方法.pdf",
     "附件/2017_Wisdom et al_Building recurrent networks by unfolding iterative thresholding for sequential.pdf",
-    "未命名",
     "附件/SPARSE SIGNAL RESTORATION.pdf",
     "文献阅读.canvas",
     "附件/Learning to Optimize： A Primer and A Benchmark.pdf",
     "附件/Ada-LISTA.pdf",
     "未命名.canvas",
-    "文献整理/1",
-    "文献整理",
     "未命名 1.canvas",
     "Z 暂弃/未命名.canvas"
   ]
