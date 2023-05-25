@@ -37,15 +37,35 @@
 
 >[!Model]
 >$$\mathbf{y}=\mathbf{\Phi}\mathbf{x}$$
->
+>$$\hat{\boldsymbol{x}}=\min_{\mathbf{x}}\frac{1}{2}\|\mathbf{\Phi}\mathbf{x}-\mathbf{y}\|_2^2+\lambda\mathcal{R}(\mathbf{x})$$
 
+## 提出方法：
 
+提出了一种有效的优化启发式交叉注意转换器（**O**ptimization-inspired **C**ross-attention **T**ransformer，OCT）模块作为迭代过程，并为图像压缩感知建立了一个基于 OCT 的轻量级展开框架（**OCT**-based **U**nfolding **F**ramework，OCTUF）
+1. 参数量小
+2. 重构性能强
 
-# 模型推导：
+![[Pasted image 20230525132733.png|500]]
 
+ OCT 模块在特征空间中保持最大的信息流，它由一个双交叉注意力 (Dual Cross Attention，Dual-CA) 子模块和一个前馈网络 (Feed-Forward Network，FFN) 子模块组成，以形成每个迭代过程。Dual-CA 子模块包含一个惯性交叉注意 (Inertia-Supplied Cross Attention，ISCA) 块和一个投影交叉注意 (Projection-Guided Cross Attention，PGCA) 块。 ISCA 块计算相邻迭代信息的交叉注意力，并为优化算法添加惯性/记忆效应。PGCA 块使用梯度下降步骤和惯性项作为交叉注意 (CA) 块的输入来指导通道特征的精细融合。
 
+# 正文：
+
+## 深度展开网络（DUN）
+
+>[!DUNs-Optimization]
+>$$
+>\begin{aligned}
+&\operatorname*{min}_{\Theta}\sum_{j=1}{\mathcal{L}}(\mathbf{\hat{x}}_{j},\mathbf{x}_{j}), \\
+&\mathbf{s.t.}\quad\hat{\mathbf{x}}_j=\arg\min\frac{1}{2}\|\mathbf{\Phi x}-\mathbf{y}_j\|_2^2+\lambda\mathcal{R}(\mathbf{x})
+\end{aligned}$$
+
+在大多数 DUN 中，==每次迭代的输入和输出本质上都是图像，这严重阻碍了信息传输，导致表示能力有限==。最近，一些方法提出了==将信息流结合到特征空间中的每个迭代过程中以增强信息传输==的想法。然而，现有的解决方案通常在处理通道信息方面缺乏灵活性，并且受到高模型复杂性的困扰。在本文中，我们提出了一个有效的解决方案。
+
+## 视觉Transformer
 
 # 实验/仿真验证
+
 
 
 

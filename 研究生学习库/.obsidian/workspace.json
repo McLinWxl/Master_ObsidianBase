@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "a5b2339026fa280f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "素材整理/测试与传感技术作业图片素材.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "73b45873ef9d617f",
             "type": "leaf",
             "state": {
@@ -98,7 +110,8 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -173,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "附件/2022_DOA_Estimation_Using_an_Unfolded_Deep_Network_in_the_Presence_of_Array_Imperfections.pdf",
+                "file": "素材整理/测试与传感技术作业图片素材.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "附件/2022_DOA_Estimation_Using_an_Unfolded_Deep_Network_in_the_Presence_of_Array_Imperfections.pdf",
+                "file": "素材整理/测试与传感技术作业图片素材.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "附件/2022_DOA_Estimation_Using_an_Unfolded_Deep_Network_in_the_Presence_of_Array_Imperfections.pdf"
+                "file": "素材整理/测试与传感技术作业图片素材.md"
               }
             }
           }
@@ -236,29 +249,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "12ea1485b5b7667e",
+  "active": "a5b2339026fa280f",
   "lastOpenFiles": [
-    "附件/2019_吴_基于机器学习的阵列信号处理方法.pdf",
-    "网络代码实现/DCNN-DOA 复现.md",
+    "附件/Pasted image 20230525202527.png",
+    "附件/Pasted image 20230525202259.png",
+    "附件/Pasted image 20230525201826.png",
+    "附件/Pasted image 20230525201742.png",
+    "素材整理",
+    "网络代码实现/LISTA 复现.md",
+    "素材整理/测试与传感技术作业图片素材.md",
     "ZK cards/004a Optimization-Inspired Cross-Attention Transformer for Compressive Sensing.md",
+    "附件/Pasted image 20230525132733.png",
+    "附件/Pasted image 20230525132704.png",
+    "网络代码实现/DCNN-DOA 复现.md",
+    "附件/2019_Wu et al_Deep Convolution Network for Direction of Arrival Estimation With Sparse Prior.pdf",
+    "附件/2019_吴_基于机器学习的阵列信号处理方法.pdf",
+    "附件/2022_DOA_Estimation_Using_an_Unfolded_Deep_Network_in_the_Presence_of_Array_Imperfections.pdf",
     "月报.md",
     "附件/2023_Song et al_Optimization-Inspired Cross-Attention Transformer for Compressive Sensing.pdf",
     "ZK cards/吴流丽博士论文汇报素材.md",
     "论文学习/002b Algorithm Unrolling： Interpretable, Efficient Deep Learning for Signal and Image Processing.md",
-    "附件/2022_DOA_Estimation_Using_an_Unfolded_Deep_Network_in_the_Presence_of_Array_Imperfections.pdf",
-    "网络代码实现/LISTA 复现.md",
     "附件/Pasted image 20230523233534.png",
     "附件/Pasted image 20230523223054.png",
     "附件/Pasted image 20230523223020.png",
     "附件/Pasted image 20230523222355.png",
     "附件/Pasted image 20230523221441.png",
-    "附件/Pasted image 20230523153330.png",
-    "附件/Pasted image 20230523153231.png",
-    "附件/Pasted image 20230523143128.png",
-    "附件/Pasted image 20230523142753.png",
-    "附件/Pasted image 20230523142549.png",
     "每周进度汇报.md",
-    "附件/2019_Wu et al_Deep Convolution Network for Direction of Arrival Estimation With Sparse Prior.pdf",
     "论文学习/000c 基于机器学习的阵列信号处理方法(4章)：卷积网络.md",
     "论文学习/000d 基于机器学习的阵列信号处理方法(5章)：深度展开方法.md",
     "论文学习/000a 基于机器学习的阵列信号处理方法(1,2章).md",
@@ -278,12 +294,10 @@
     "论文学习/002c Fast Iteration Shrinkage Thresholding Unfolding Network for Acoustic Source Localization.md",
     "论文学习/002e Building recurrent networks by unfolding iterative thresholding for sequential sparse recovery.md",
     "ZK cards/ISTA-based.md",
-    "论文学习/005 Learning to Optimize： A Primer and A Benchmark.md",
     "附件/空间谱估计理论与算法_王永良_陈辉_彭应宁_万群著_z_lib_org.pdf",
     "附件/2017_Wisdom et al_Building recurrent networks by unfolding iterative thresholding for sequential.pdf",
     "附件/SPARSE SIGNAL RESTORATION.pdf",
     "文献阅读.canvas",
-    "附件/Learning to Optimize： A Primer and A Benchmark.pdf",
     "未命名.canvas",
     "未命名 1.canvas",
     "Z 暂弃/未命名.canvas"
