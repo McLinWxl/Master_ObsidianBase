@@ -59,7 +59,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "附件/2019_吴_基于机器学习的阵列信号处理方法.pdf"
+                "file": "附件/空间谱估计理论与算法_王永良_陈辉_彭应宁_万群著_z_lib_org.pdf"
               }
             }
           },
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "月报.md",
+                "file": "附件/空间谱估计理论与算法_王永良_陈辉_彭应宁_万群著_z_lib_org.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "月报.md",
+                "file": "附件/空间谱估计理论与算法_王永良_陈辉_彭应宁_万群著_z_lib_org.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "月报.md"
+                "file": "附件/空间谱估计理论与算法_王永良_陈辉_彭应宁_万群著_z_lib_org.pdf"
               }
             }
           }
@@ -210,13 +210,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "77b3da7d3350b984",
+  "active": "5c52eebebddc51ec",
   "lastOpenFiles": [
-    "ZK cards/eniops 模块 rearrange, reduce, repeat.md",
-    "附件/2019_Wu et al_Deep Convolution Network for Direction of Arrival Estimation With Sparse Prior.pdf",
     "附件/2019_吴_基于机器学习的阵列信号处理方法.pdf",
-    "月报.md",
+    "附件/空间谱估计理论与算法_王永良_陈辉_彭应宁_万群著_z_lib_org.pdf",
+    "附件/2019_Wu et al_Deep Convolution Network for Direction of Arrival Estimation With Sparse Prior.pdf",
     "附件/2022_DOA_Estimation_Using_an_Unfolded_Deep_Network_in_the_Presence_of_Array_Imperfections.pdf",
+    "月报.md",
+    "ZK cards/eniops 模块 rearrange, reduce, repeat.md",
     "每周进度汇报.md",
     "论文学习/004a Optimization-Inspired Cross-Attention Transformer for Compressive Sensing.md",
     "附件/2023_Song et al_Optimization-Inspired Cross-Attention Transformer for Compressive Sensing.pdf",
@@ -254,7 +255,6 @@
     "素材整理",
     "网络代码实现",
     "附件/DOA_Estimation_Using_an_Unfolded_Deep_Network_in_the_Presence_of_Array_Imperfections.pdf",
-    "附件/空间谱估计理论与算法_王永良_陈辉_彭应宁_万群著_z_lib_org.pdf",
     "附件/2017_Wisdom et al_Building recurrent networks by unfolding iterative thresholding for sequential.pdf",
     "附件/SPARSE SIGNAL RESTORATION.pdf",
     "文献阅读.canvas",
