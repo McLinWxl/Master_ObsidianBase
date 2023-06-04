@@ -1,8 +1,8 @@
 202305082311
 
-Status:  #konwledge 
+Status:  #Python 
 
-Tags: #PyFuns 
+Tags: -
 
 # 三元函数、行内 if、for 语句
 ---

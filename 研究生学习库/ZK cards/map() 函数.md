@@ -1,8 +1,8 @@
 202305082233
 
-Status: #konwledge
+Status: #Python 
 
-Tags: #PyFuns 
+Tags: -
 
 # map() 函数
 

@@ -32,24 +32,12 @@
             }
           },
           {
-            "id": "3b3e02685de0de1c",
+            "id": "08b0305da0430297",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZK cards/004a Optimization-Inspired Cross-Attention Transformer for Compressive Sensing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73b45873ef9d617f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "网络代码实现/DCNN-DOA 复现.md",
+                "file": "ZK cards/eniops 模块 rearrange, reduce, repeat.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,8 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217,
-    "collapsed": true
+    "width": 217
   },
   "right": {
     "id": "c1ad1ba9f03bb9a7",
@@ -161,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZK cards/004a Optimization-Inspired Cross-Attention Transformer for Compressive Sensing.md",
+                "file": "月报.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZK cards/004a Optimization-Inspired Cross-Attention Transformer for Compressive Sensing.md",
+                "file": "月报.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZK cards/004a Optimization-Inspired Cross-Attention Transformer for Compressive Sensing.md"
+                "file": "月报.md"
               }
             }
           }
@@ -210,8 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,51 +210,50 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b3e02685de0de1c",
+  "active": "77b3da7d3350b984",
   "lastOpenFiles": [
-    "附件/Pasted image 20230530151205.png",
-    "附件/Pasted image 20230530150731.png",
-    "附件/Pasted image 20230530145327.png",
-    "附件/Pasted image 20230530144003.png",
-    "附件/Pasted image 20230530142910.png",
-    "网络代码实现/LISTA 复现.md",
-    "素材整理/测试与传感技术作业图片素材.md",
-    "附件/2019_吴_基于机器学习的阵列信号处理方法.pdf",
-    "附件/Pasted image 20230528163823.png",
-    "附件/Pasted image 20230528163801.png",
-    "附件/Pasted image 20230528163734.png",
+    "ZK cards/eniops 模块 rearrange, reduce, repeat.md",
     "附件/2019_Wu et al_Deep Convolution Network for Direction of Arrival Estimation With Sparse Prior.pdf",
-    "附件/Pasted image 20230525202527.png",
-    "附件/Pasted image 20230525202259.png",
-    "附件/Pasted image 20230525201826.png",
-    "素材整理",
-    "ZK cards/004a Optimization-Inspired Cross-Attention Transformer for Compressive Sensing.md",
-    "网络代码实现/DCNN-DOA 复现.md",
-    "附件/2022_DOA_Estimation_Using_an_Unfolded_Deep_Network_in_the_Presence_of_Array_Imperfections.pdf",
+    "附件/2019_吴_基于机器学习的阵列信号处理方法.pdf",
     "月报.md",
-    "附件/2023_Song et al_Optimization-Inspired Cross-Attention Transformer for Compressive Sensing.pdf",
-    "ZK cards/吴流丽博士论文汇报素材.md",
-    "论文学习/002b Algorithm Unrolling： Interpretable, Efficient Deep Learning for Signal and Image Processing.md",
+    "附件/2022_DOA_Estimation_Using_an_Unfolded_Deep_Network_in_the_Presence_of_Array_Imperfections.pdf",
     "每周进度汇报.md",
-    "论文学习/000c 基于机器学习的阵列信号处理方法(4章)：卷积网络.md",
-    "论文学习/000d 基于机器学习的阵列信号处理方法(5章)：深度展开方法.md",
+    "论文学习/004a Optimization-Inspired Cross-Attention Transformer for Compressive Sensing.md",
+    "附件/2023_Song et al_Optimization-Inspired Cross-Attention Transformer for Compressive Sensing.pdf",
+    "网络代码实现/LISTA 复现.md",
+    "ZK cards/map() 函数.md",
+    "ZK cards/lambda 匿名函数.md",
+    "ZK cards/DOA 估计算法展开属于哪一类问题？.md",
+    "ZK cards/吴流丽博士论文汇报素材.md",
+    "ZK cards/特征迭代的LISTA.md",
+    "ZK cards/三元函数、行内 for 语句.md",
+    "ZK cards/软阈值迭代算法推导.md",
+    "ZK cards/复数矩阵的实数域表示.md",
+    "ZK cards/复包络.md",
+    "Templates/ZK cards.md",
+    "网络代码实现/DCNN-DOA 复现.md",
+    "素材整理/测试与传感技术作业图片素材.md",
     "论文学习/000a 基于机器学习的阵列信号处理方法(1,2章).md",
+    "论文学习/000b 空间谱估计理论与算法.md",
+    "论文学习/000c 基于机器学习的阵列信号处理方法(4章)：卷积网络.md",
     "论文学习/000e Deep Convolution Network for Direction of Arrival Estimation With Sparse Prior.md",
+    "论文学习/000d 基于机器学习的阵列信号处理方法(5章)：深度展开方法.md",
+    "论文学习/002d Ada-LISTA Learned Solvers Adaptive to Varying Models.md",
+    "论文学习/002c Fast Iteration Shrinkage Thresholding Unfolding Network for Acoustic Source Localization.md",
+    "论文学习/002b Algorithm Unrolling： Interpretable, Efficient Deep Learning for Signal and Image Processing.md",
+    "附件/Pasted image 20230531134059.png",
+    "附件/Pasted image 20230531131526.png",
+    "附件/Pasted image 20230531131423.png",
+    "附件/Pasted image 20230531131151.png",
+    "附件/Pasted image 20230531130511.png",
+    "附件/Pasted image 20230531130353.png",
+    "附件/Pasted image 20230531130016.png",
+    "附件/Pasted image 20230531130004.png",
+    "附件/Pasted image 20230531125915.png",
+    "附件/Pasted image 20230531125749.png",
+    "素材整理",
     "网络代码实现",
     "附件/DOA_Estimation_Using_an_Unfolded_Deep_Network_in_the_Presence_of_Array_Imperfections.pdf",
-    "论文学习/000b 空间谱估计理论与算法.md",
-    "ZK cards/三元函数、行内 for 语句.md",
-    "ZK cards/lambda 匿名函数.md",
-    "论文学习/002d Ada-LISTA Learned Solvers Adaptive to Varying Models.md",
-    "ZK cards/复数矩阵的实数域表示.md",
-    "Templates/Daily.md",
-    "ZK cards/002a ISTA 算法推导.md",
-    "ZK cards/算法推导.md",
-    "ZK cards/DOA 估计算法展开属于哪一类问题？.md",
-    "论文学习/001 Deep Alternating Projection Networks for Gridless DOA Estimation With Nested Array.md",
-    "论文学习/002c Fast Iteration Shrinkage Thresholding Unfolding Network for Acoustic Source Localization.md",
-    "论文学习/002e Building recurrent networks by unfolding iterative thresholding for sequential sparse recovery.md",
-    "ZK cards/ISTA-based.md",
     "附件/空间谱估计理论与算法_王永良_陈辉_彭应宁_万群著_z_lib_org.pdf",
     "附件/2017_Wisdom et al_Building recurrent networks by unfolding iterative thresholding for sequential.pdf",
     "附件/SPARSE SIGNAL RESTORATION.pdf",

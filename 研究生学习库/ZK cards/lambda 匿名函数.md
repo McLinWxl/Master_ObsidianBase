@@ -1,8 +1,8 @@
 202305082252
 
-Status: #konwledge 
+Status: #Python 
 
-Tags: #PyFuns 
+Tags: 
 
 # lambda 匿名函数
 

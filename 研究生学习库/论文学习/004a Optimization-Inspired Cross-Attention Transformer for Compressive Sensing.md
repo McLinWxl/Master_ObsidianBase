@@ -12,7 +12,7 @@
 
 分区：-
 
-标签： [[DUN]], [[CS]]
+标签： [[DUN]], [[CS]], [[Transformer]], [[ISTA-based]]
 
 代码：[Codes](https://github.com/songjiechong/OCTUF)
 
@@ -31,7 +31,7 @@
 	1. InertiaSupplied Cross Attention （ISCA）块
 	2. ProjectionGuided Cross Attention （PGCA）块
 
-# 引言:
+# 引言：
 
 ## 优化模型
 
@@ -87,6 +87,8 @@
 >$$
 >\mathbf{X}^{(k)}=\mathcal{H}_{\mathrm{FFN}}(\mathbf{S}^{(k)})
 >$$
+
+$\mathbf{X}^{(0)}$ 由一个3×3的卷积 (Conv0(·)) 对 $\mathbf{x}^{0}$ 初始化
 
 ![[Pasted image 20230530142910.png]]
 
@@ -145,8 +147,80 @@ $$
 
 ## 实验设置
 
-数据集：BSD500 中的 400 张图片裁剪为 89600 个 $96\times96$ 像素大小的块，并进行图像增强
+训练数据集设置：BSD500 中的 400 张图片裁剪为 89600 个 $96\times96$ 像素大小的块，并进行图像增强
 
 根据CS率 $\frac{M}{N}$ ，构造测量矩阵 $\bf{\Phi}$ 为大小为 $M\times1\times\sqrt{N}\times\sqrt{N}$ 的卷积核对原始图像进行采样
 
+网络参数设置：
+1. batch size=16
+2. 特征通道数C=32
+3. Adam优化器，学习率采用余弦退火策略（100 epochs后降低至5e-5）和warm-up（3 epochs）
+
+测试数据集：Set11、Urban100，彩色图像在YCbCr空间处理，在Y通道上评价
+
+评价指标：
+1. 峰值信噪比（PSNR）
+2. 结构相似性（SSIM）
+3. 每秒浮点运算（FLOPs）
+
+## 对比实验
+
+OCTUF：迭代次数10，初始学习率5e-4
+OCTUF+：迭代次数16，初始学习率2e-4
+
+![[Pasted image 20230531125915.png]]
+
+![[Pasted image 20230531130004.png]]
+
+结论：提出方法OCTUF+的性能最好。
+
+![[Pasted image 20230531125749.png]]
+
+![[Pasted image 20230531130016.png]]
+
+结论：提出方法OCTUF+能够恢复更清晰的边缘信息。
+
+## 消融实验
+
+### 整体消融
+
+![[Pasted image 20230531130353.png]]
+
+结论：提出的 OCTUF 具有稳定的训练过程和较大的学习率，同时，我们在训练时使用“warm-up”策略来提高其随时性能。
+
+### 双注意力消融
+
+![[Pasted image 20230531130511.png]]
+
+“IF”表示通过 $\mathbf{s}^{(k)}= \mathbf{x}^{(k-1)}-\rho^{(k)}\mathbf{\Phi}^{\top}(\mathbf{\Phi}\mathbf{x}^{(k-1)}-\mathbf{y}) +\alpha^{(k)}(\mathbf{x}^{(k-1)}-\mathbf{x}^{(k-2)})$ 获得惯性项；
+
+“FD”表示整个迭代过程是在特征域实现的
+
+结论：ISCA 和 PGCA 块都更加关注细节内容和结构纹理
+
+### 前馈网络消融
+
+![[Pasted image 20230531131151.png]]
+
+Baseline指没有LayerNorm（LN）
+提出的：$2\times(LN+FFB)$
+
+结论：提出方法实现了最好的性能
+
+## 复杂度分析
+
+![[Pasted image 20230531131423.png]]
+
+结论：提出方法采样过程的参数与MADUN 和 FSOINet 相同，但使用更少的参数和更少的计算负担来产生更清晰的恢复图像。
+
+## 噪声敏感性
+
+![[Pasted image 20230531131526.png]]
+
+结论：提出方法 OCTUF 对噪声具有很强的鲁棒性。
+
 # 结论
+
+>In this paper, we propose a novel optimization-inspired cross-attention Transformer (OCT) module as an iteration, leading to a lightweight OCT-based unfolding framework (OCTUF) for CS. Specifically, we present a Dual Cross Attention (Dual-CA) sub-module, which contains an inertiasupplied cross attention (ISCA) block and a projectionguided cross attention (PGCA) block as the projection step in iterative optimization. ISCA block precisely helps to achieve a good convergence by introducing a feature-level inertial term. PGCA block utilizes a cross attention mechanism to fuse the gradient descent term and the inertial term while ensuring the maximum information flow. Extensive experiments show that our OCTUF achieves superior performance compared to state-of-the-art methods with lower complexity. In the future, we will extend our OCTUF to other image inverse problems and video applications.
+
+本文提出了一种新的受优化启发的交叉注意Transformer（OCT）模块作为迭代，从而为 CS 提供了一个基于 OCT 的轻量级展开框架（OCTUF）。具体来说，提出了一个双交叉注意 (Dual-CA) 子模块，其中包含一个惯性交叉注意 (ISCA) 块和一个投影交叉注意 (PGCA) 块作为迭代优化中的投影步骤。 ISCA 块通过引入==特征级惯性项==恰好有助于实现良好的收敛。 PGCA block==利用交叉注意力机制融合梯度下降项和惯性项==，同时保证最大的信息流。大量实验表明，与具有较低复杂性的最先进方法相比，我们的 OCTUF 实现了卓越的性能。
