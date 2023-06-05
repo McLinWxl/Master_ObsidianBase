@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "5c52eebebddc51ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "网络代码实现/LISTA 复现.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f5437c6cd8069d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZK cards/Cramer-Rao Lower Bound.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "08b0305da0430297",
             "type": "leaf",
             "state": {
@@ -54,16 +78,6 @@
             }
           },
           {
-            "id": "5c52eebebddc51ec",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "附件/空间谱估计理论与算法_王永良_陈辉_彭应宁_万群著_z_lib_org.pdf"
-              }
-            }
-          },
-          {
             "id": "12ea1485b5b7667e",
             "type": "leaf",
             "state": {
@@ -74,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "附件/空间谱估计理论与算法_王永良_陈辉_彭应宁_万群著_z_lib_org.pdf",
+                "file": "网络代码实现/LISTA 复现.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "附件/空间谱估计理论与算法_王永良_陈辉_彭应宁_万群著_z_lib_org.pdf",
+                "file": "网络代码实现/LISTA 复现.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,16 +202,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "附件/空间谱估计理论与算法_王永良_陈辉_彭应宁_万群著_z_lib_org.pdf"
+                "file": "网络代码实现/LISTA 复现.md"
               }
+            }
+          },
+          {
+            "id": "9f14e04a06fcfcd6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 257.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,18 +232,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5c52eebebddc51ec",
+  "active": "9f14e04a06fcfcd6",
   "lastOpenFiles": [
+    "附件/Pasted image 20230605230252.png",
+    "月报.md",
+    "网络代码实现/LISTA 复现.md",
+    "附件/Pasted image 20230605230143.png",
+    "附件/Pasted image 20230605230025.png",
+    "附件/Pasted image 20230605224514.png",
+    "附件/Pasted image 20230605224115.png",
     "附件/2019_吴_基于机器学习的阵列信号处理方法.pdf",
+    "ZK cards/Cramer-Rao Lower Bound.md",
     "附件/空间谱估计理论与算法_王永良_陈辉_彭应宁_万群著_z_lib_org.pdf",
     "附件/2019_Wu et al_Deep Convolution Network for Direction of Arrival Estimation With Sparse Prior.pdf",
     "附件/2022_DOA_Estimation_Using_an_Unfolded_Deep_Network_in_the_Presence_of_Array_Imperfections.pdf",
-    "月报.md",
     "ZK cards/eniops 模块 rearrange, reduce, repeat.md",
     "每周进度汇报.md",
     "论文学习/004a Optimization-Inspired Cross-Attention Transformer for Compressive Sensing.md",
     "附件/2023_Song et al_Optimization-Inspired Cross-Attention Transformer for Compressive Sensing.pdf",
-    "网络代码实现/LISTA 复现.md",
     "ZK cards/map() 函数.md",
     "ZK cards/lambda 匿名函数.md",
     "ZK cards/DOA 估计算法展开属于哪一类问题？.md",
@@ -241,17 +269,12 @@
     "论文学习/000d 基于机器学习的阵列信号处理方法(5章)：深度展开方法.md",
     "论文学习/002d Ada-LISTA Learned Solvers Adaptive to Varying Models.md",
     "论文学习/002c Fast Iteration Shrinkage Thresholding Unfolding Network for Acoustic Source Localization.md",
-    "论文学习/002b Algorithm Unrolling： Interpretable, Efficient Deep Learning for Signal and Image Processing.md",
     "附件/Pasted image 20230531134059.png",
     "附件/Pasted image 20230531131526.png",
     "附件/Pasted image 20230531131423.png",
     "附件/Pasted image 20230531131151.png",
     "附件/Pasted image 20230531130511.png",
     "附件/Pasted image 20230531130353.png",
-    "附件/Pasted image 20230531130016.png",
-    "附件/Pasted image 20230531130004.png",
-    "附件/Pasted image 20230531125915.png",
-    "附件/Pasted image 20230531125749.png",
     "素材整理",
     "网络代码实现",
     "附件/DOA_Estimation_Using_an_Unfolded_Deep_Network_in_the_Presence_of_Array_Imperfections.pdf",
