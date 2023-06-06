@@ -48,18 +48,23 @@ $lr=0.0001$ ：更难出现过拟合，整体RMSE也较低。
 
 修改训练数据集：20000组随机位置二声源+随机\[-10，10\]SNR
 
+DCNN on same train dataset: SAME as before
+
+![[Pasted image 20230606093709.png|500]]
+
 结果对比：
 
-| Name             | Layers | Lr     | Weight Decay | Result       | OverFitting |
-| ---------------- | ------ | ------ | ------------ | ------------ | ----------- |
-| 01 (Debug)       | 5      | 0.0004 | 0.0001       | 0.34~        | 无          |
-| 02               | 5      | 0.0004 | 0            |              |             |
-| (Binary)Debug3   | 5      | 0.0004 | 0.0001       | 4(不稳定)    | 无          |
-| (Binary)Debug4   | 5      | 0.0004 | 0            |              |             |
-| （UnTied）Debug5 | 5      | 0.0004 | 0            | 全0          |             |
-| （UnTied）Debug5 | 5      | 0.0004 | 0.0001            |           |             |
-| 03 (Debug2)      | 7      | 0.0004 | 0.0001       |              |             |
-| 04 (Debug1)      | 7      | 0.0004 | 0            | 0.4 (不稳定) | 无          |
+| Name                                                                       | Layers | Lr     | Weight Decay | Result       | OverFitting |
+| -------------------------------------------------------------------------- | ------ | ------ | ------------ | ------------ | ----------- |
+| BASELINE                                                                   | 5      | 0.0004 | 0            | 0.40(不稳定) |             |
+| <span style="background:rgba(205, 244, 105, 0.55)">WeightDecay</span>      | 5      | 0.0004 | 0.0001       | 0.38~        | 无          |
+| (<span style="background:rgba(255, 183, 139, 0.55)">InputNorm</span>)      | 5      | 0.0004 | 0.0001       | 0.5          | 100ep       |
+| (Binary)Debug3                                                             | 5      | 0.0004 | 0.0001       | 4(不稳定)    | 无          |
+| <span style="background:rgba(205, 244, 105, 0.55)">Denoise</span>          | 5      | 0.0004 | 0            | 0.33         | 150         |
+| Denoise+WeightDecay                                                        | 5      | 0.0004 | 0.0001       |              |             |
+| Tied                                                                       | 5      | 0.0004 | 0            | 全0          |             |
+| <span style="background:rgba(255, 183, 139, 0.55)">Tied</span>+WeightDecay | 5      | 0.0004 | 0.0001       | 随机         |             |
+
 
 ## 01
 

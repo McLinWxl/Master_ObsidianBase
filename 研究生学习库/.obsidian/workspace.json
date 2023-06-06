@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZK cards/Cramer-Rao Lower Bound.md",
+                "file": "论文学习/002d Ada-LISTA Learned Solvers Adaptive to Varying Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,12 +83,12 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "附件/2022_DOA_Estimation_Using_an_Unfolded_Deep_Network_in_the_Presence_of_Array_Imperfections.pdf"
+                "file": "附件/2019_吴_基于机器学习的阵列信号处理方法.pdf"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "网络代码实现/LISTA 复现.md",
+                "file": "附件/2019_吴_基于机器学习的阵列信号处理方法.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "网络代码实现/LISTA 复现.md",
+                "file": "附件/2019_吴_基于机器学习的阵列信号处理方法.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "网络代码实现/LISTA 复现.md"
+                "file": "附件/2019_吴_基于机器学习的阵列信号处理方法.pdf"
               }
             }
           },
@@ -232,20 +232,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9f14e04a06fcfcd6",
+  "active": "12ea1485b5b7667e",
   "lastOpenFiles": [
-    "附件/Pasted image 20230605230252.png",
-    "月报.md",
+    "附件/2019_Wu et al_Deep Convolution Network for Direction of Arrival Estimation With Sparse Prior.pdf",
     "网络代码实现/LISTA 复现.md",
+    "月报.md",
+    "附件/2019_吴_基于机器学习的阵列信号处理方法.pdf",
+    "ZK cards/OverFitting.md",
+    "Templates/ZK cards.md",
+    "论文学习/002d Ada-LISTA Learned Solvers Adaptive to Varying Models.md",
+    "ZK cards/Cramer-Rao Lower Bound.md",
+    "论文学习/000a 基于机器学习的阵列信号处理方法(1,2章).md",
+    "论文学习/000b 空间谱估计理论与算法.md",
+    "论文学习/000c 基于机器学习的阵列信号处理方法(4章)：卷积网络.md",
+    "论文学习/000d 基于机器学习的阵列信号处理方法(5章)：深度展开方法.md",
+    "附件/2022_DOA_Estimation_Using_an_Unfolded_Deep_Network_in_the_Presence_of_Array_Imperfections.pdf",
+    "附件/Pasted image 20230606093709.png",
+    "附件/Pasted image 20230605230252.png",
     "附件/Pasted image 20230605230143.png",
     "附件/Pasted image 20230605230025.png",
     "附件/Pasted image 20230605224514.png",
     "附件/Pasted image 20230605224115.png",
-    "附件/2019_吴_基于机器学习的阵列信号处理方法.pdf",
-    "ZK cards/Cramer-Rao Lower Bound.md",
     "附件/空间谱估计理论与算法_王永良_陈辉_彭应宁_万群著_z_lib_org.pdf",
-    "附件/2019_Wu et al_Deep Convolution Network for Direction of Arrival Estimation With Sparse Prior.pdf",
-    "附件/2022_DOA_Estimation_Using_an_Unfolded_Deep_Network_in_the_Presence_of_Array_Imperfections.pdf",
     "ZK cards/eniops 模块 rearrange, reduce, repeat.md",
     "每周进度汇报.md",
     "论文学习/004a Optimization-Inspired Cross-Attention Transformer for Compressive Sensing.md",
@@ -259,22 +267,13 @@
     "ZK cards/软阈值迭代算法推导.md",
     "ZK cards/复数矩阵的实数域表示.md",
     "ZK cards/复包络.md",
-    "Templates/ZK cards.md",
     "网络代码实现/DCNN-DOA 复现.md",
     "素材整理/测试与传感技术作业图片素材.md",
-    "论文学习/000a 基于机器学习的阵列信号处理方法(1,2章).md",
-    "论文学习/000b 空间谱估计理论与算法.md",
-    "论文学习/000c 基于机器学习的阵列信号处理方法(4章)：卷积网络.md",
     "论文学习/000e Deep Convolution Network for Direction of Arrival Estimation With Sparse Prior.md",
-    "论文学习/000d 基于机器学习的阵列信号处理方法(5章)：深度展开方法.md",
-    "论文学习/002d Ada-LISTA Learned Solvers Adaptive to Varying Models.md",
-    "论文学习/002c Fast Iteration Shrinkage Thresholding Unfolding Network for Acoustic Source Localization.md",
     "附件/Pasted image 20230531134059.png",
     "附件/Pasted image 20230531131526.png",
     "附件/Pasted image 20230531131423.png",
     "附件/Pasted image 20230531131151.png",
-    "附件/Pasted image 20230531130511.png",
-    "附件/Pasted image 20230531130353.png",
     "素材整理",
     "网络代码实现",
     "附件/DOA_Estimation_Using_an_Unfolded_Deep_Network_in_the_Presence_of_Array_Imperfections.pdf",
