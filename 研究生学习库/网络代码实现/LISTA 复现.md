@@ -61,7 +61,7 @@ DCNN on same train dataset: SAME as before
 | (<span style="background:rgba(255, 183, 139, 0.55)">InputNorm</span>)      | 5      | 0.0004 | 0.0001       | 0.5          | 100ep       |
 | (Binary)Debug3                                                             | 5      | 0.0004 | 0.0001       | 4(不稳定)    | 无          |
 | <span style="background:rgba(205, 244, 105, 0.55)">Denoise</span>          | 5      | 0.0004 | 0            | 0.33         | 150         |
-| Denoise+WeightDecay                                                        | 5      | 0.0004 | 0.0001       |              |             |
+| Denoise+WeightDecay                                                        | 5      | 0.0004 | 0.0001       | 0.45         |             |
 | Tied                                                                       | 5      | 0.0004 | 0            | 全0          |             |
 | <span style="background:rgba(255, 183, 139, 0.55)">Tied</span>+WeightDecay | 5      | 0.0004 | 0.0001       | 随机         |             |
 

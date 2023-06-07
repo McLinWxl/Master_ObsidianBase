@@ -20,61 +20,19 @@
             }
           },
           {
-            "id": "77b3da7d3350b984",
+            "id": "dee4c4f05bf94a14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZK cards/网络架构.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39be7faa92286bdb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "附件/2019_吴_基于机器学习的阵列信号处理方法.pdf"
-              }
-            }
-          },
-          {
-            "id": "fd01b6a111f33e8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/ZK cards.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "affd7e9deca567d8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "fdf8ab6a672f817f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "论文学习/000d 基于机器学习的阵列信号处理方法(5章)：深度展开方法.md",
+                "file": "网络代码实现/LISTA 复现.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "网络代码实现/LISTA 复现.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "网络代码实现/LISTA 复现.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "网络代码实现/LISTA 复现.md"
+              }
             }
           },
           {
@@ -207,8 +169,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "affd7e9deca567d8",
+  "active": "dee4c4f05bf94a14",
   "lastOpenFiles": [
+    "进度整理/每周进度汇报.md",
+    "ZK cards/交叉注意力 vs 自注意力.md",
     "ZK cards/复数矩阵的实数域表示.md",
     "ZK cards/损失函数.md",
     "ZK cards/优化器.md",
@@ -234,8 +198,6 @@
     "论文学习/000e Deep Convolution Network for Direction of Arrival Estimation With Sparse Prior.md",
     "论文学习/002d Ada-LISTA Learned Solvers Adaptive to Varying Models.md",
     "论文学习/002b Algorithm Unrolling： Interpretable, Efficient Deep Learning for Signal and Image Processing.md",
-    "论文学习/001 Deep Alternating Projection Networks for Gridless DOA Estimation With Nested Array.md",
-    "网络代码实现/LISTA 复现.md",
     "附件/2019_吴_基于机器学习的阵列信号处理方法.pdf",
     "附件/2019_Wu et al_Deep Convolution Network for Direction of Arrival Estimation With Sparse Prior.pdf",
     "附件/Pasted image 20230606235256.png",
