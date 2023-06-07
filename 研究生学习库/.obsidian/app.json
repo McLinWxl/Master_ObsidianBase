@@ -15,7 +15,10 @@
   "userIgnoreFilters": [
     "MODEL/",
     "Daily/",
-    "文献整理/"
+    "文献整理/",
+    "进度整理/",
+    "附件/",
+    "Templates/"
   ],
   "tabSize": 5
 }

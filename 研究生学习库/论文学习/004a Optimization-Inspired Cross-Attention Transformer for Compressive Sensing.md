@@ -12,7 +12,7 @@
 
 分区：-
 
-标签： [[DUN]], [[CS]], [[Transformer]], [[ISTA-based]]
+标签： [[DUN]], [[CS]], [[Attention]], [[ISTA-based]]
 
 代码：[Codes](https://github.com/songjiechong/OCTUF)
 

@@ -1,6 +1,6 @@
 {{date:YYYYMMDD}}{{time:HHmm}}
 
-Status: #idea   #knowledge 
+Status: 
 
 Tags: 
 
