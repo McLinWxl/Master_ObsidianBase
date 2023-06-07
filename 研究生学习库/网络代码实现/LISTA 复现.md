@@ -87,7 +87,7 @@ DCNN on same train dataset: SAME as before
 
 ### 10层
 
-![[Pasted image 20230606233708.png|500]]
+![[Pasted image 20230607230522.png|500]]
 
-![[Pasted image 20230606235256.png|500]]
+![[Pasted image 20230607230500.png|500]]
 
