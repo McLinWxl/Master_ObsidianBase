@@ -80,9 +80,11 @@ DCNN on same train dataset: SAME as before
 
 ![[Pasted image 20230606232009.png|500]]
 
-### 8
+### 8 层
 
-![[Pasted image 20230607195823.png|500]]
+![[Pasted image 20230608110255.png]]
+
+![[Pasted image 20230608105947.png]]
 
 
 ### 10层

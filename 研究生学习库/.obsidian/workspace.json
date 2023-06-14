@@ -30,9 +30,75 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "69e3f2b1e5a9ab43",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "附件/2019_吴_基于机器学习的阵列信号处理方法.pdf"
+              }
+            }
+          },
+          {
+            "id": "b5ef98e311e7272e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "附件/2019_Wu et al_Deep Convolution Network for Direction of Arrival Estimation With Sparse Prior.pdf"
+              }
+            }
+          },
+          {
+            "id": "48796e1d4ceba763",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "进度整理/月报.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6c58c3c26b99063",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "论文学习/002d Ada-LISTA Learned Solvers Adaptive to Varying Models.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed95f3a3ea9d134e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "附件/Ada-LISTA.pdf"
+              }
+            }
+          },
+          {
+            "id": "5f048a08284965c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZK cards/复数矩阵的实数域表示.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,6 +135,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "740ce9373c369448",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -98,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "网络代码实现/LISTA 复现.md",
+                "file": "附件/2019_Wu et al_Deep Convolution Network for Direction of Arrival Estimation With Sparse Prior.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "网络代码实现/LISTA 复现.md",
+                "file": "附件/2019_Wu et al_Deep Convolution Network for Direction of Arrival Estimation With Sparse Prior.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "网络代码实现/LISTA 复现.md"
+                "file": "附件/2019_Wu et al_Deep Convolution Network for Direction of Arrival Estimation With Sparse Prior.pdf"
               }
             }
           },
@@ -151,7 +225,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -169,14 +243,29 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "dee4c4f05bf94a14",
+  "active": "b5ef98e311e7272e",
   "lastOpenFiles": [
+    "附件/2019_吴_基于机器学习的阵列信号处理方法.pdf",
+    "附件/空间谱估计理论与算法_王永良_陈辉_彭应宁_万群著_z_lib_org.pdf",
+    "网络代码实现/LISTA 复现.md",
+    "进度整理/月报.md",
+    "附件/Ada-LISTA.pdf",
+    "ZK cards/复数矩阵的实数域表示.md",
+    "ZK cards/复数信号中加入高斯白噪声.md",
+    "附件/Pasted image 20230609191846.png",
+    "论文学习/002d Ada-LISTA Learned Solvers Adaptive to Varying Models.md",
+    "进度整理/每周进度汇报.md",
+    "论文学习/000a 基于机器学习的阵列信号处理方法(1,2章).md",
+    "附件/Pasted image 20230608110255.png",
+    "附件/Pasted image 20230608105947.png",
+    "附件/Pasted image 20230608100158.png",
+    "附件/Pasted image 20230608100137.png",
+    "附件/Pasted image 20230608100127.png",
+    "附件/Pasted image 20230608100121.png",
+    "附件/Pasted image 20230608100113.png",
     "附件/Pasted image 20230607230522.png",
     "附件/Pasted image 20230607230500.png",
-    "附件/Pasted image 20230607195823.png",
-    "进度整理/每周进度汇报.md",
     "ZK cards/交叉注意力 vs 自注意力.md",
-    "ZK cards/复数矩阵的实数域表示.md",
     "ZK cards/损失函数.md",
     "ZK cards/优化器.md",
     "Templates/Daily.md",
@@ -192,31 +281,15 @@
     "ZK cards/DOA.md",
     "ZK cards/软阈值迭代算法推导.md",
     "ZK cards/网络架构.md",
-    "进度整理/月报.md",
     "进度整理",
     "论文学习/004a Optimization-Inspired Cross-Attention Transformer for Compressive Sensing.md",
     "ZK cards/Transformer.md",
-    "ZK cards/三元函数、行内 for 语句.md",
-    "Templates/ZK cards.md",
-    "论文学习/000e Deep Convolution Network for Direction of Arrival Estimation With Sparse Prior.md",
-    "论文学习/002d Ada-LISTA Learned Solvers Adaptive to Varying Models.md",
-    "附件/2019_吴_基于机器学习的阵列信号处理方法.pdf",
     "附件/2019_Wu et al_Deep Convolution Network for Direction of Arrival Estimation With Sparse Prior.pdf",
-    "附件/Pasted image 20230606235256.png",
-    "附件/Pasted image 20230606233708.png",
-    "附件/Pasted image 20230606232009.png",
-    "附件/Pasted image 20230606231946.png",
     "附件/2022_DOA_Estimation_Using_an_Unfolded_Deep_Network_in_the_Presence_of_Array_Imperfections.pdf",
-    "附件/Pasted image 20230606093709.png",
-    "附件/Pasted image 20230605230252.png",
-    "附件/Pasted image 20230605230143.png",
-    "附件/Pasted image 20230605230025.png",
-    "附件/空间谱估计理论与算法_王永良_陈辉_彭应宁_万群著_z_lib_org.pdf",
     "附件/2023_Song et al_Optimization-Inspired Cross-Attention Transformer for Compressive Sensing.pdf",
     "素材整理",
     "网络代码实现",
     "附件/DOA_Estimation_Using_an_Unfolded_Deep_Network_in_the_Presence_of_Array_Imperfections.pdf",
-    "附件/2017_Wisdom et al_Building recurrent networks by unfolding iterative thresholding for sequential.pdf",
     "文献阅读.canvas",
     "未命名.canvas",
     "未命名 1.canvas",
